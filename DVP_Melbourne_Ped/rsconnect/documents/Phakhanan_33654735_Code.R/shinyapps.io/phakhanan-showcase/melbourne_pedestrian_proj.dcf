@@ -1,0 +1,12 @@
+name: melbourne_pedestrian_proj
+title: melbourne_pedestrian_proj
+username: phakhanan-showcase
+account: phakhanan-showcase
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14000005
+bundleId: 9799623
+url: https://phakhanan-showcase.shinyapps.io/melbourne_pedestrian_proj/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
