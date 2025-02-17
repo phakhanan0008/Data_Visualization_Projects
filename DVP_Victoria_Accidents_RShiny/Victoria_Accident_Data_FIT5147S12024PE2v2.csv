@@ -1,0 +1,925 @@
+ACCIDENT_NO,ACCIDENT_DATE,ACCIDENT_TIME,DAY_WEEK_DESC,ACCIDENT_TYPE,ACCIDENT_TYPE_DESC,SEVERITY_RANK,LIGHT_CONDITION_DESC,LGA_NAME,ROAD_GEOMETRY_DESC,SPEED_ZONE,LATITUDE,LONGITUDE
+T20120000224,4/1/2012,15:00:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,777,-38.45746,145.214829
+T20120000452,7/1/2012,14:15:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.521077,145.334047
+T20120000804,12/1/2012,8:35:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.503088,145.659593
+T20120000824,12/1/2012,13:27:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,050,-38.521138,145.36848
+T20120000829,11/1/2012,10:00:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.57687,145.574129
+T20120000902,12/1/2012,18:20:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.407583,145.530382
+T20120001166,16/1/2012,15:58:00,Monday,1,Collision with vehicle,1,Day,BASS COAST,Not at intersection,080,-38.507914,145.291477
+T20120001449,20/1/2012,11:42:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.634628,145.728837
+T20120002165,29/1/2012,3:34:00,Sunday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,110,-38.330718,145.549221
+T20120002276,30/1/2012,13:23:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.602541,145.593175
+T20120002289,29/1/2012,17:31:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Y intersection,080,-38.499327,145.274594
+T20120003171,9/2/2012,20:50:00,Thursday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.529651,145.448038
+T20120003297,11/2/2012,10:30:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.521077,145.334047
+T20120003349,11/2/2012,6:15:00,Saturday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,050,-38.45657,145.201444
+T20120003468,20/1/2012,7:30:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.4823,145.613866
+T20120003500,13/2/2012,20:40:00,Monday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,T intersection,080,-38.496601,145.160436
+T20120003816,17/2/2012,5:40:00,Friday,1,Collision with vehicle,1,Dark No street lights,BASS COAST,Not at intersection,080,-38.50787,145.451339
+T20120004475,24/2/2012,10:40:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.45029,145.23586
+T20120004700,27/2/2012,8:25:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.37121,145.563268
+T20120005014,1/3/2012,7:50:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.548765,145.656907
+T20120005091,1/1/2012,15:30:00,Sunday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.65654,145.599868
+T20120005983,12/3/2012,0:15:00,Monday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Not at intersection,100,-38.43943,145.48449
+T20120006056,26/2/2012,10:01:00,Sunday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Cross intersection,080,-38.496697,145.238932
+T20120006276,15/3/2012,9:20:00,Thursday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Cross intersection,080,-38.500129,145.461469
+T20120006691,11/3/2012,17:45:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.456133,145.210688
+T20120006916,22/3/2012,8:30:00,Thursday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.598466,145.578102
+T20120007183,22/3/2012,18:00:00,Thursday,8,No collision and no object struck,2,Day,BASS COAST,Cross intersection,060,-38.452329,145.229666
+T20120007398,28/3/2012,11:30:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,070,-38.56348,145.547396
+T20120008150,4/4/2012,16:30:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.625023,145.733005
+T20120008514,11/4/2012,17:35:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.496665,145.22718
+T20120008549,11/4/2012,10:47:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.514395,145.308288
+T20120008686,13/4/2012,15:05:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.521087,145.368941
+T20120008967,16/4/2012,20:58:00,Monday,2,Struck Pedestrian,3,Dark No street lights,BASS COAST,Not at intersection,060,-38.482075,145.23704
+T20120009448,21/4/2012,18:55:00,Saturday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,050,-38.605154,145.578795
+T20120009813,26/4/2012,7:05:00,Thursday,3,Struck animal,3,Day,BASS COAST,Not at intersection,100,-38.539697,145.587998
+T20120010455,3/5/2012,21:20:00,Thursday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.605092,145.765992
+T20120011503,17/3/2012,15:30:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.496601,145.160436
+T20120013015,4/6/2012,9:00:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.625023,145.733005
+T20120014521,23/6/2012,11:09:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Multiple intersection,100,-38.554442,145.640145
+T20120015030,29/6/2012,19:00:00,Friday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,T intersection,050,-38.604634,145.593533
+T20120015052,29/6/2012,21:30:00,Friday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.48322,145.61724
+T20120016311,16/7/2012,16:25:00,Monday,6,Vehicle overturned (no collision),2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.403549,145.534799
+T20120016400,14/7/2012,20:00:00,Saturday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,080,-38.463628,145.22338
+T20120016719,21/7/2012,16:00:00,Saturday,2,Struck Pedestrian,3,Day,BASS COAST,Cross intersection,060,-38.456151,145.238985
+T20120017110,26/7/2012,20:35:00,Thursday,6,Vehicle overturned (no collision),3,Dark Street lights on,BASS COAST,Cross intersection,050,-38.60616,145.591164
+T20120017243,24/7/2012,13:40:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.459302,145.597937
+T20120017908,6/8/2012,6:26:00,Monday,8,No collision and no object struck,2,Dark No street lights,BASS COAST,Not at intersection,080,-38.58217,145.60574
+T20120018263,9/8/2012,16:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.46432,145.196611
+T20120018986,19/8/2012,16:15:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.40752,145.530234
+T20120019301,24/8/2012,8:25:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.625023,145.733005
+T20120019499,26/8/2012,11:40:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.554429,145.64004
+T20120019599,23/8/2012,16:30:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.578981,145.632453
+T20120019709,28/8/2012,20:30:00,Tuesday,1,Collision with vehicle,1,Dark Street lights on,BASS COAST,Not at intersection,080,-38.519281,145.341231
+T20120020329,5/9/2012,21:50:00,Wednesday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,100,-38.496697,145.238932
+T20120021474,21/9/2012,14:30:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.456151,145.238985
+T20120021932,27/9/2012,15:10:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,T intersection,100,-38.472201,145.474807
+T20120022330,30/9/2012,17:30:00,Sunday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.596917,145.785058
+T20120023301,10/10/2012,9:30:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.609522,145.589752
+T20120024143,25/10/2012,15:45:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.496697,145.23732
+T20120024164,26/10/2012,12:05:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,999,-38.49818,145.229484
+T20120024907,4/11/2012,15:30:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.62849,145.585079
+T20120025044,7/11/2012,7:35:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.554429,145.64004
+T20120025286,10/11/2012,13:15:00,Saturday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.429471,145.483349
+T20120025311,10/11/2012,18:10:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.456155,145.248404
+T20120025330,10/11/2012,8:30:00,Saturday,6,Vehicle overturned (no collision),3,Unk.,BASS COAST,Not at intersection,100,-38.543158,145.718524
+T20120025455,26/9/2012,11:15:00,Wednesday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,050,-38.501611,145.251913
+T20120025796,16/11/2012,23:00:00,Friday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,T intersection,100,-38.536307,145.698643
+T20120026495,26/11/2012,12:50:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.453561,145.238972
+T20120026863,22/11/2012,6:30:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.602938,145.563933
+T20120026913,1/12/2012,0:05:00,Saturday,1,Collision with vehicle,1,Dark No street lights,BASS COAST,Not at intersection,100,-38.292595,145.548271
+T20120026998,1/12/2012,14:25:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.56401,145.54071
+T20120027319,6/12/2012,14:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.602541,145.593175
+T20120027696,23/11/2012,15:50:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,050,-38.522357,145.34108
+T20120028246,18/12/2012,4:35:00,Tuesday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,T intersection,100,-38.419797,145.551451
+T20120028914,27/12/2012,12:30:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.407583,145.530382
+T20120029121,31/12/2012,9:45:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.456141,145.257666
+T20120029131,31/12/2012,10:00:00,Monday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.492088,145.616707
+T20130000101,2/1/2013,11:55:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.498095,145.273229
+T20130000163,3/1/2013,16:15:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.628021,145.808171
+T20130000187,3/1/2013,21:55:00,Thursday,3,Struck animal,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.468541,145.44573
+T20130000573,9/1/2013,6:06:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.48455,145.220135
+T20130000818,11/1/2013,22:00:00,Friday,2,Struck Pedestrian,3,Dark No street lights,BASS COAST,Not at intersection,050,-38.414258,145.43073
+T20130000867,14/1/2013,13:20:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.515573,145.344941
+T20130001288,19/1/2013,22:00:00,Saturday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Cross intersection,100,-38.49657,145.220132
+T20130001624,25/1/2013,2:00:00,Friday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.512226,145.300072
+T20130002438,1/2/2013,9:30:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.605716,145.594509
+T20130002694,18/1/2013,17:00:00,Friday,1,Collision with vehicle,3,Unk.,BASS COAST,Not at intersection,999,-38.452099,145.27326
+T20130003215,14/2/2013,5:44:00,Thursday,6,Vehicle overturned (no collision),2,Dark No street lights,BASS COAST,Not at intersection,060,-38.482082,145.24501
+T20130003234,15/2/2013,11:55:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.453561,145.238972
+T20130003920,23/2/2013,12:20:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.407583,145.530382
+T20130003983,23/2/2013,18:20:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.49897,145.281782
+T20130004036,25/2/2013,8:50:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.419985,145.553191
+T20130004077,26/2/2013,1:00:00,Tuesday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.46667,145.44023
+T20130004079,26/2/2013,3:15:00,Tuesday,8,No collision and no object struck,2,Dark No street lights,BASS COAST,Not at intersection,060,-38.522772,145.42888
+T20130004840,6/3/2013,16:05:00,Wednesday,5,collision with some other object,3,Day,BASS COAST,Not at intersection,100,-38.613589,145.747759
+T20130005044,8/3/2013,19:45:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.627359,145.731048
+T20130005115,9/3/2013,10:35:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.59742,145.592321
+T20130005432,14/3/2013,16:25:00,Thursday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.59095,145.589851
+T20130005671,16/3/2013,7:30:00,Saturday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.482461,145.465783
+T20130005672,16/3/2013,11:25:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.602541,145.593175
+T20130006022,12/3/2013,9:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.450285,145.238979
+T20130006079,21/3/2013,20:30:00,Thursday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Cross intersection,080,-38.463446,145.201431
+T20130006618,28/3/2013,13:30:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.46364,145.238984
+T20130006767,31/3/2013,14:40:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.514896,145.347229
+T20130006900,1/4/2013,12:11:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.519819,145.32891
+T20130007733,23/3/2013,11:30:00,Saturday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,050,-38.452332,145.248389
+T20130007757,15/4/2013,12:15:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.548533,145.65835
+T20130008731,27/4/2013,13:45:00,Saturday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,080,-38.426341,145.593817
+T20130008818,29/4/2013,8:40:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.493071,145.26834
+T20130009428,7/5/2013,11:20:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,T intersection,070,-38.433387,145.447066
+T20130009708,10/5/2013,4:45:00,Friday,3,Struck animal,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.548686,145.593141
+T20130010260,17/5/2013,9:30:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,040,-38.607103,145.592871
+T20130010303,19/2/2013,18:00:00,Tuesday,7,Fall from or in moving vehicle,3,Unk.,BASS COAST,Not at intersection,999,-38.526509,145.333259
+T20130010504,20/5/2013,12:40:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.419461,145.524859
+T20130010727,23/5/2013,14:20:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.513926,145.306472
+T20130011796,5/6/2013,6:50:00,Wednesday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Cross intersection,100,-38.573669,145.717873
+T20130012841,19/6/2013,15:55:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,050,-38.456151,145.238985
+T20130013572,30/6/2013,13:25:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.507429,145.451048
+T20130013888,4/7/2013,11:28:00,Thursday,2,Struck Pedestrian,3,Day,BASS COAST,Cross intersection,050,-38.605156,145.588387
+T20130014149,8/7/2013,13:20:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.500129,145.461469
+T20130015241,21/7/2013,18:38:00,Sunday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,T intersection,060,-38.594329,145.59171
+T20130015658,29/7/2013,15:45:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.389089,145.608329
+T20130015991,2/8/2013,9:10:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.611472,145.585614
+T20130016300,7/8/2013,16:45:00,Wednesday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,T intersection,060,-38.598671,145.592533
+T20130016553,11/8/2013,11:26:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.558808,145.492271
+T20130017042,8/4/2013,16:40:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.550606,145.65526
+T20130017657,26/8/2013,13:30:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.60487,145.59128
+T20130017819,25/8/2013,13:00:00,Sunday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.414969,145.5388
+T20130018644,10/9/2013,0:30:00,Tuesday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.64226,145.607191
+T20130018855,11/9/2013,17:30:00,Wednesday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,080,-38.500885,145.153705
+T20130019377,20/9/2013,13:45:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,050,-38.485059,145.467046
+T20130019465,20/9/2013,22:15:00,Friday,8,No collision and no object struck,2,Dark Street lights on,BASS COAST,T intersection,050,-38.672065,145.617913
+T20130020012,21/9/2013,13:30:00,Saturday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.596681,145.55395
+T20130020037,29/9/2013,12:55:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,040,-38.472238,145.627134
+T20130020254,1/10/2013,23:20:00,Tuesday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.60771,145.58498
+T20130020324,30/9/2013,17:10:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.630982,145.725496
+T20130020808,19/8/2013,22:30:00,Monday,8,No collision and no object struck,2,Dark Street lights unknown,BASS COAST,Not at intersection,100,-38.520371,145.447825
+T20130020884,28/9/2013,12:42:00,Saturday,5,collision with some other object,3,Day,BASS COAST,Not at intersection,100,-38.623511,145.706709
+T20130021184,13/10/2013,14:59:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.292643,145.548699
+T20130021607,19/10/2013,10:20:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.456155,145.248404
+T20130021814,20/10/2013,8:30:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.638068,145.726109
+T20130023870,18/11/2013,23:40:00,Monday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,T intersection,100,-38.48803,145.464131
+T20130024521,28/11/2013,6:45:00,Thursday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,T intersection,060,-38.50667,145.289034
+T20130024815,2/12/2013,7:30:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.496618,145.16388
+T20130024861,2/12/2013,17:00:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.313819,145.583084
+T20130026099,18/12/2013,15:50:00,Wednesday,4,Collision with a fixed object,1,Day,BASS COAST,Not at intersection,080,-38.642042,145.701221
+T20130026287,20/12/2013,16:00:00,Friday,1,Collision with vehicle,1,Day,BASS COAST,Not at intersection,100,-38.523661,145.41425
+T20130026506,24/12/2013,8:20:00,Tuesday,3,Struck animal,2,Day,BASS COAST,Not at intersection,100,-38.454172,145.646581
+T20130026515,21/12/2013,3:40:00,Saturday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Not at intersection,100,-38.561018,145.497761
+T20130026717,27/12/2013,18:05:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.608729,145.588996
+T20130026721,27/12/2013,17:30:00,Friday,2,Struck Pedestrian,2,Day,BASS COAST,T intersection,050,-38.448063,145.241997
+T20130026794,28/12/2013,15:30:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.626131,145.7437
+T20140000057,1/1/2014,19:45:00,Wednesday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,T intersection,080,-38.498095,145.273229
+T20140000686,11/1/2014,16:45:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.520848,145.391065
+T20140001475,18/1/2014,17:40:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.570911,145.567828
+T20140001769,27/1/2014,10:05:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.482091,145.220135
+T20140001902,26/1/2014,14:15:00,Sunday,8,No collision and no object struck,2,Day,BASS COAST,T intersection,060,-38.614648,145.595976
+T20140001958,30/1/2014,11:00:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,060,-38.482097,145.25804
+T20140002279,3/2/2014,15:20:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,T intersection,100,-38.609921,145.755398
+T20140004824,8/3/2014,8:04:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.45392,145.238973
+T20140004993,9/3/2014,12:00:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Multiple intersection,050,-38.521087,145.368941
+T20140005570,18/3/2014,11:00:00,Tuesday,8,No collision and no object struck,2,Day,BASS COAST,T intersection,070,-38.417484,145.438238
+T20140005682,19/3/2014,18:15:00,Wednesday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.330197,145.549284
+T20140006989,18/3/2014,7:00:00,Tuesday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,T intersection,999,-38.460436,145.238786
+T20140007316,9/4/2014,9:00:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.566528,145.560893
+T20140008004,17/4/2014,18:40:00,Thursday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,T intersection,060,-38.592921,145.589501
+T20140008023,18/4/2014,3:45:00,Friday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,080,-38.496697,145.23543
+T20140008061,18/4/2014,14:30:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.502951,145.281684
+T20140008130,19/4/2014,18:20:00,Saturday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,080,-38.482173,145.256568
+T20140008476,24/4/2014,17:15:00,Thursday,6,Vehicle overturned (no collision),3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.565041,145.558139
+T20140008696,20/4/2014,15:00:00,Sunday,2,Struck Pedestrian,3,Day,BASS COAST,T intersection,050,-38.635751,145.723416
+T20140009345,6/5/2014,16:00:00,Tuesday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Cross intersection,060,-38.602541,145.593175
+T20140009430,7/5/2014,13:00:00,Wednesday,1,Collision with vehicle,1,Day,BASS COAST,Cross intersection,100,-38.573669,145.717873
+T20140009457,7/5/2014,16:05:00,Wednesday,2,Struck Pedestrian,2,Dusk/Dawn,BASS COAST,Not at intersection,050,-38.60637,145.584774
+T20140010437,20/5/2014,17:15:00,Tuesday,2,Struck Pedestrian,2,Dusk/Dawn,BASS COAST,Not at intersection,999,-38.45477,145.238976
+T20140010638,23/5/2014,7:00:00,Friday,2,Struck Pedestrian,2,Dark Street lights on,BASS COAST,T intersection,050,-38.633822,145.729503
+T20140010828,25/5/2014,18:06:00,Sunday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,Cross intersection,080,-38.407583,145.530382
+T20140010928,26/5/2014,17:00:00,Monday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.39107,145.60191
+T20140010949,26/5/2014,17:45:00,Monday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.507822,145.138291
+T20140011269,31/5/2014,17:55:00,Saturday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.496678,145.25256
+T20140011300,31/5/2014,13:30:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.46818,145.239002
+T20140012430,16/6/2014,17:50:00,Monday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.311562,145.579799
+T20140012632,19/6/2014,16:25:00,Thursday,4,Collision with a fixed object,1,Dusk/Dawn,BASS COAST,Not at intersection,070,-38.434949,145.446746
+T20140013303,28/6/2014,11:40:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.62698,145.721973
+T20140013654,2/7/2014,14:05:00,Wednesday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,080,-38.469281,145.627502
+T20140014840,18/7/2014,21:56:00,Friday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,080,-38.463652,145.24706
+T20140015033,21/7/2014,20:45:00,Monday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,060,-38.605804,145.593721
+T20140016018,3/8/2014,17:10:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.515645,145.359458
+T20140016027,3/8/2014,21:50:00,Sunday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,060,-38.602541,145.593175
+T20140017038,16/8/2014,20:00:00,Saturday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.584471,145.590963
+T20140017054,15/8/2014,7:30:00,Friday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.580596,145.628748
+T20140017255,20/8/2014,13:55:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,040,-38.520989,145.37658
+T20140018925,12/9/2014,15:00:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.605027,145.58968
+T20140020340,2/10/2014,14:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.514678,145.34986
+T20140020534,5/10/2014,7:15:00,Sunday,8,No collision and no object struck,3,Dusk/Dawn,BASS COAST,Not at intersection,999,-38.580448,145.629439
+T20140020653,7/10/2014,0:15:00,Tuesday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Cross intersection,060,-38.526151,145.446402
+T20140020978,11/10/2014,6:15:00,Saturday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,T intersection,050,-38.60419,145.599598
+T20140021134,13/10/2014,12:15:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.554429,145.64004
+T20140021487,17/10/2014,17:20:00,Friday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,T intersection,100,-38.497536,145.507889
+T20140021733,18/10/2014,11:00:00,Saturday,8,No collision and no object struck,2,Day,BASS COAST,Not at intersection,100,-38.45144,145.655761
+T20140021763,21/10/2014,15:30:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.520971,145.37644
+T20140021806,22/10/2014,11:00:00,Wednesday,8,No collision and no object struck,2,Day,BASS COAST,Not at intersection,080,-38.46213,145.257665
+T20140021998,19/10/2014,11:00:00,Sunday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,050,-38.496687,145.25726
+T20140022236,26/10/2014,14:00:00,Sunday,2,Struck Pedestrian,3,Day,BASS COAST,Cross intersection,050,-38.456151,145.238985
+T20140022331,28/10/2014,12:30:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,070,-38.588039,145.579872
+T20140022601,26/10/2014,5:30:00,Sunday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.4224,145.560489
+T20140023091,7/11/2014,15:38:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.397713,145.618527
+T20140023268,10/11/2014,10:00:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.381539,145.615754
+T20140023727,16/11/2014,16:55:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.520435,145.372271
+T20140023943,19/11/2014,13:45:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.509834,145.295247
+T20140023953,19/11/2014,15:05:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.626361,145.7458
+T20140024489,26/11/2014,8:30:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.64078,145.602224
+T20140024647,28/11/2014,2:00:00,Friday,4,Collision with a fixed object,1,Dark Street lights on,BASS COAST,Not at intersection,060,-38.60837,145.588933
+T20140024663,28/11/2014,9:20:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Unknown,100,-38.49073,145.617125
+T20140026584,22/12/2014,20:43:00,Monday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,050,-38.452329,145.229666
+T20140026603,23/12/2014,9:20:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.463668,145.257665
+T20140026621,23/12/2014,11:45:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.472201,145.474807
+T20140026854,27/12/2014,8:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.516529,145.342933
+T20140026953,28/12/2014,18:53:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Y intersection,100,-38.472201,145.474807
+T20140026998,29/12/2014,14:30:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.513537,145.442136
+T20140027120,31/12/2014,13:00:00,Wednesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.49442,145.58075
+T20150000590,9/1/2015,18:30:00,Friday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Cross intersection,100,-38.500129,145.461469
+T20150000817,23/12/2014,11:28:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.62698,145.721973
+T20150000846,10/1/2015,13:30:00,Saturday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.464142,145.266549
+T20150000884,13/1/2015,16:00:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.526381,145.44501
+T20150000891,13/1/2015,19:50:00,Tuesday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,T intersection,100,-38.635551,145.60301
+T20150001021,15/1/2015,11:30:00,Thursday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.37817,145.567221
+T20150001033,15/1/2015,7:45:00,Thursday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.616543,145.741592
+T20150001216,18/1/2015,2:40:00,Sunday,6,Vehicle overturned (no collision),3,Dark Street lights on,BASS COAST,T intersection,100,-38.624787,145.709676
+T20150001228,23/11/2014,23:00:00,Sunday,8,No collision and no object struck,3,Dark No street lights,BASS COAST,Not at intersection,050,-38.456144,145.22048
+T20150001439,21/1/2015,10:45:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,060,-38.45698,145.238982
+T20150001450,21/1/2015,13:50:00,Wednesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.547118,145.55343
+T20150001698,24/1/2015,16:45:00,Saturday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Cross intersection,100,-38.526428,145.446526
+T20150001710,24/1/2015,19:30:00,Saturday,6,Vehicle overturned (no collision),3,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.551318,145.478463
+T20150001805,26/1/2015,12:20:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.495029,145.270241
+T20150002134,21/1/2015,17:45:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.606471,145.58697
+T20150002210,1/2/2015,10:15:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.563934,145.541911
+T20150002328,3/2/2015,11:00:00,Tuesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,080,-38.59034,145.55192
+T20150002687,7/2/2015,13:25:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.60382,145.5882
+T20150002749,8/2/2015,12:25:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.523279,145.4242
+T20150003289,15/2/2015,12:00:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.472238,145.627134
+T20150003476,27/1/2015,2:00:00,Tuesday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Cross intersection,060,-38.41525,145.438856
+T20150003643,19/2/2015,18:15:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.520848,145.391065
+T20150004341,28/2/2015,11:40:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.46364,145.238984
+T20150005351,12/3/2015,16:00:00,Thursday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.524176,145.366969
+T20150005378,13/3/2015,16:00:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.60104,145.592929
+T20150006222,24/3/2015,7:45:00,Tuesday,6,Vehicle overturned (no collision),2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.49434,145.644437
+T20150006391,1/1/2015,11:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,999,-38.496616,145.16353
+T20150006649,28/3/2015,15:30:00,Saturday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.453781,145.549734
+T20150006982,2/4/2015,12:25:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.432772,145.497182
+T20150007066,3/4/2015,14:36:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.523984,145.422012
+T20150007071,3/4/2015,14:36:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.523964,145.416409
+T20150008123,17/4/2015,21:05:00,Friday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.528308,145.325338
+T20150008180,18/4/2015,14:00:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.52653,145.446547
+T20150008477,22/4/2015,8:50:00,Wednesday,2,Struck Pedestrian,3,Day,BASS COAST,T intersection,040,-38.59801,145.600069
+T20150008562,15/3/2015,21:30:00,Sunday,6,Vehicle overturned (no collision),3,Dark No street lights,BASS COAST,Not at intersection,100,-38.467681,145.626107
+T20150008586,23/4/2015,17:15:00,Thursday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.604019,145.578585
+T20150010020,13/5/2015,3:30:00,Wednesday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.616537,145.65887
+T20150010111,14/5/2015,0:01:00,Thursday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,050,-38.438682,145.44267
+T20150010854,22/5/2015,10:30:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.606371,145.58802
+T20150011056,24/5/2015,13:00:00,Sunday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,080,-38.51713,145.662074
+T20150011170,26/5/2015,15:45:00,Tuesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.599558,145.778848
+T20150011244,27/5/2015,13:34:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.625847,145.741119
+T20150011294,1/5/2015,17:48:00,Friday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,060,-38.437391,145.560559
+T20150011381,29/5/2015,0:00:00,Friday,4,Collision with a fixed object,2,Dark Street lights unknown,BASS COAST,Not at intersection,100,-38.548779,145.656869
+T20150011902,4/6/2015,17:05:00,Thursday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,100,-38.500129,145.461469
+T20150011923,4/6/2015,18:15:00,Thursday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.528854,145.341101
+T20150012096,4/6/2015,20:00:00,Thursday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,999,-38.402809,145.672359
+T20150012674,15/6/2015,9:47:00,Monday,1,Collision with vehicle,3,Unk.,BASS COAST,Cross intersection,080,-38.40752,145.530234
+T20150013171,21/6/2015,8:30:00,Sunday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.447281,145.573618
+T20150013282,22/6/2015,23:00:00,Monday,6,Vehicle overturned (no collision),2,Dark No street lights,BASS COAST,Not at intersection,080,-38.623668,145.734186
+T20150013527,26/6/2015,15:00:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,040,-38.60771,145.586498
+T20150013621,27/6/2015,19:15:00,Saturday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Not at intersection,100,-38.520971,145.432031
+T20150014303,8/7/2015,13:05:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.45485,145.238976
+T20150014334,8/7/2015,19:30:00,Wednesday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,080,-38.47899,145.238978
+T20150014594,12/7/2015,17:15:00,Sunday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,T intersection,060,-38.600585,145.579086
+T20150015283,22/7/2015,17:15:00,Wednesday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,T intersection,080,-38.621665,145.698593
+T20150015314,23/7/2015,9:00:00,Thursday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,100,-38.498197,145.446391
+T20150016082,2/8/2015,15:50:00,Sunday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Not at intersection,100,-38.564614,145.556429
+T20150016333,3/8/2015,7:34:00,Monday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.432422,145.497893
+T20150016647,10/8/2015,18:50:00,Monday,3,Struck animal,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.599535,145.778903
+T20150018415,4/9/2015,14:55:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.520744,145.368958
+T20150018852,10/9/2015,14:39:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.577731,145.595192
+T20150019229,15/9/2015,6:20:00,Tuesday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.609764,145.755723
+T20150020170,29/9/2015,14:30:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.40752,145.530234
+T20150020585,5/10/2015,12:45:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.46243,145.441097
+T20150020689,1/10/2015,15:00:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.606556,145.762687
+T20150021526,18/10/2015,10:00:00,Sunday,8,No collision and no object struck,2,Day,BASS COAST,Not at intersection,100,-38.4845,145.464798
+T20150022120,17/10/2015,18:30:00,Saturday,6,Vehicle overturned (no collision),3,Dusk/Dawn,BASS COAST,T intersection,050,-38.451261,145.220172
+T20150022649,1/11/2015,18:20:00,Sunday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,060,-38.605898,145.59278
+T20150022681,2/11/2015,8:30:00,Monday,2,Struck Pedestrian,2,Day,BASS COAST,Cross intersection,050,-38.452326,145.23869
+T20150022822,3/11/2015,13:00:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.625847,145.741119
+T20150022933,5/11/2015,11:45:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.407583,145.530382
+T20150024422,26/11/2015,8:30:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.59579,145.592069
+T20150024566,27/11/2015,19:25:00,Friday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,Cross intersection,070,-38.43908,145.445911
+T20150024616,28/11/2015,13:30:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.47277,145.238999
+T20150024618,28/11/2015,14:10:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.520528,145.373059
+T20150025435,8/12/2015,13:50:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.516529,145.342933
+T20150025472,14/11/2015,15:00:00,Saturday,8,No collision and no object struck,2,Day,BASS COAST,Not at intersection,080,-38.46228,145.640241
+T20150025745,11/12/2015,15:20:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.514681,145.34959
+T20150026230,17/12/2015,17:20:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.4516,145.23898
+T20150026297,18/12/2015,11:45:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.46361,145.20143
+T20150026317,9/12/2015,10:30:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.602541,145.593175
+T20150026343,9/12/2015,12:00:00,Wednesday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,060,-38.47299,145.238998
+T20150026518,20/12/2015,14:15:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.496687,145.257596
+T20150026772,24/12/2015,10:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.521996,145.38645
+T20150026795,24/12/2015,16:10:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,060,-38.506831,145.289349
+T20150027172,30/12/2015,16:00:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.407949,145.572777
+T20150027189,30/12/2015,22:40:00,Wednesday,3,Struck animal,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.576648,145.69314
+T20160000017,31/12/2015,22:40:00,Thursday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.590662,145.587668
+T20160000099,2/1/2016,14:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.484631,145.260149
+T20160000243,3/1/2016,12:30:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.510271,145.296129
+T20160000298,5/1/2016,13:57:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.463659,145.25422
+T20160000584,9/1/2016,17:20:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.456155,145.248404
+T20160000990,12/1/2016,10:30:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,050,-38.606998,145.593889
+T20160000996,14/1/2016,17:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.456162,145.25032
+T20160001109,16/1/2016,13:35:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.630982,145.725496
+T20160001296,19/1/2016,14:59:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.29817,145.544207
+T20160001349,20/1/2016,9:00:00,Wednesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.526866,145.442328
+T20160001352,20/1/2016,7:40:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.55562,145.64983
+T20160001679,24/1/2016,19:00:00,Sunday,6,Vehicle overturned (no collision),2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.49894,145.570578
+T20160001878,27/1/2016,15:20:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.496679,145.24834
+T20160002030,16/1/2016,1:30:00,Saturday,6,Vehicle overturned (no collision),3,Dark No street lights,BASS COAST,T intersection,100,-38.579746,145.631809
+T20160002706,7/2/2016,8:15:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.655262,145.684833
+T20160002744,7/2/2016,18:20:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.46041,145.616492
+T20160003039,10/2/2016,16:55:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.452325,145.238981
+T20160003169,12/2/2016,18:20:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.45614,145.229666
+T20160003173,12/2/2016,16:00:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.580551,145.62893
+T20160003514,10/2/2016,17:10:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.606216,145.589579
+T20160003653,18/2/2016,15:30:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.627411,145.71609
+T20160003909,21/2/2016,12:00:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.520744,145.368958
+T20160004050,23/2/2016,16:15:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.596181,145.596318
+T20160004114,24/2/2016,14:45:00,Wednesday,5,collision with some other object,3,Day,BASS COAST,Not at intersection,060,-38.606228,145.58946
+T20160004560,27/2/2016,12:30:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.45306,145.238976
+T20160004565,29/2/2016,16:00:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.496687,145.257596
+T20160004655,1/3/2016,15:00:00,Tuesday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Cross intersection,060,-38.56348,145.547396
+T20160004728,2/3/2016,9:15:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.493149,145.643866
+T20160005654,13/3/2016,17:50:00,Sunday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.374092,145.561394
+T20160005674,14/3/2016,2:10:00,Monday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.63728,145.602736
+T20160006804,28/3/2016,11:10:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,050,-38.60721,145.588736
+T20160007298,2/4/2016,12:40:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.407583,145.530382
+T20160007325,3/4/2016,23:00:00,Sunday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.454764,145.23012
+T20160008030,1/4/2016,14:00:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.607621,145.60753
+T20160008279,15/4/2016,21:45:00,Friday,4,Collision with a fixed object,3,Dark Street lights off,BASS COAST,T intersection,050,-38.463651,145.245315
+T20160008522,19/4/2016,9:25:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.611201,145.591809
+T20160008846,23/4/2016,11:55:00,Saturday,8,No collision and no object struck,3,Day,BASS COAST,T intersection,050,-38.565257,145.542711
+T20160008978,17/4/2016,14:30:00,Sunday,8,No collision and no object struck,2,Day,BASS COAST,Not at intersection,999,-38.508352,145.590982
+T20160009132,20/3/2016,0:40:00,Sunday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.38873,145.54529
+T20160009328,23/4/2016,14:20:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.606998,145.593889
+T20160009450,30/4/2016,20:55:00,Saturday,2,Struck Pedestrian,2,Dark Street lights on,BASS COAST,Not at intersection,100,-38.402585,145.535548
+T20160010041,5/5/2016,6:30:00,Thursday,3,Struck animal,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.578135,145.654331
+T20160010139,9/5/2016,8:30:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,050,-38.48512,145.467062
+T20160010447,12/5/2016,5:40:00,Thursday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.482083,145.24576
+T20160010888,18/5/2016,10:45:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.62916,145.631734
+T20160010956,13/5/2016,15:55:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.605804,145.593721
+T20160011173,21/5/2016,17:30:00,Saturday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Cross intersection,100,-38.573669,145.717873
+T20160011199,21/5/2016,18:20:00,Saturday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,T intersection,080,-38.521077,145.334047
+T20160011565,26/5/2016,12:20:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.456165,145.26023
+T20160011978,28/5/2016,13:22:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,060,-38.604634,145.593533
+T20160012110,1/6/2016,9:45:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,888,-38.472057,145.473641
+T20160012393,5/6/2016,12:53:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.472278,145.187447
+T20160012494,6/6/2016,19:40:00,Monday,3,Struck animal,1,Dark No street lights,BASS COAST,Not at intersection,100,-38.557261,145.715043
+T20160012886,11/6/2016,9:50:00,Saturday,4,Collision with a fixed object,1,Day,BASS COAST,Not at intersection,080,-38.463647,145.24103
+T20160013309,17/6/2016,6:30:00,Friday,5,collision with some other object,3,Dark No street lights,BASS COAST,Not at intersection,999,-38.47518,145.25764
+T20160013321,16/6/2016,10:00:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.48284,145.57016
+T20160013403,18/6/2016,15:15:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.419417,145.550034
+T20160013570,20/6/2016,13:30:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.601807,145.600054
+T20160013760,20/6/2016,6:30:00,Monday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.37149,145.56455
+T20160013991,26/6/2016,2:00:00,Sunday,7,Fall from or in moving vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,060,-38.456151,145.238985
+T20160014027,27/6/2016,8:30:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.419418,145.46579
+T20160014362,1/7/2016,0:10:00,Friday,2,Struck Pedestrian,3,Dark No street lights,BASS COAST,Not at intersection,050,-38.453196,145.226
+T20160014585,5/7/2016,7:42:00,Tuesday,8,No collision and no object struck,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.583203,145.620983
+T20160015348,14/7/2016,17:45:00,Thursday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,060,-38.46364,145.238984
+T20160015420,13/7/2016,8:00:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.519681,145.659971
+T20160015576,16/7/2016,13:15:00,Saturday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,080,-38.454151,145.542037
+T20160015667,13/7/2016,5:15:00,Wednesday,6,Vehicle overturned (no collision),2,Dark No street lights,BASS COAST,Not at intersection,100,-38.551125,145.69266
+T20160015689,18/7/2016,18:30:00,Monday,3,Struck animal,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.55815,145.71466
+T20160015888,17/7/2016,13:10:00,Sunday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Multiple intersection,060,-38.668869,145.621661
+T20160016111,23/7/2016,16:05:00,Saturday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Cross intersection,060,-38.496687,145.257596
+T20160016477,28/7/2016,17:19:00,Thursday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.552319,145.479661
+T20160016700,31/7/2016,14:00:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.51351,145.359727
+T20160018203,19/8/2016,18:00:00,Friday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Cross intersection,080,-38.496697,145.238932
+T20160018414,17/8/2016,13:30:00,Wednesday,8,No collision and no object struck,3,Day,BASS COAST,T intersection,060,-38.601393,145.600945
+T20160018642,25/8/2016,23:40:00,Thursday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,060,-38.609522,145.589752
+T20160019123,1/9/2016,8:00:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.520572,145.593725
+T20160020046,12/9/2016,15:10:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.626241,145.726149
+T20160020054,3/9/2016,0:30:00,Saturday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Not at intersection,060,-38.526192,145.369957
+T20160020638,22/8/2016,9:20:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.437152,145.489381
+T20160020649,21/9/2016,18:10:00,Wednesday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,T intersection,060,-38.600566,145.592851
+T20160020852,24/9/2016,15:15:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.62698,145.721973
+T20160021049,27/9/2016,16:45:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.601845,145.599924
+T20160021197,29/9/2016,16:00:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.46066,145.441459
+T20160021389,2/10/2016,9:35:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.500129,145.461469
+T20160021566,5/10/2016,13:40:00,Wednesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.59997,145.725576
+T20160021883,8/10/2016,22:45:00,Saturday,7,Fall from or in moving vehicle,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.577163,145.68391
+T20160021938,12/7/2016,16:30:00,Tuesday,8,No collision and no object struck,3,Day,BASS COAST,Cross intersection,050,-38.616198,145.585171
+T20160022067,5/10/2016,8:30:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.463668,145.257665
+T20160022347,15/10/2016,14:30:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,070,-38.514668,145.35147
+T20160022469,18/9/2016,14:10:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.478825,145.470149
+T20160023005,24/10/2016,8:20:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.519092,145.434592
+T20160023338,28/10/2016,14:00:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.52124,145.335233
+T20160023781,3/11/2016,19:35:00,Thursday,6,Vehicle overturned (no collision),2,Dusk/Dawn,BASS COAST,Not at intersection,050,-38.45202,145.245656
+T20160024172,7/5/2016,20:30:00,Saturday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,050,-38.41167,145.537061
+T20160025170,21/11/2016,18:15:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.630982,145.725496
+T20160025239,13/11/2016,13:15:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,070,-38.563808,145.542779
+T20160025683,28/11/2016,7:15:00,Monday,6,Vehicle overturned (no collision),3,Day,BASS COAST,T intersection,100,-38.503471,145.619032
+T20160025994,2/12/2016,3:30:00,Friday,2,Struck Pedestrian,2,Dark Street lights unknown,BASS COAST,Not at intersection,050,-38.448063,145.24164
+T20160026185,4/12/2016,19:15:00,Sunday,4,Collision with a fixed object,3,Day,BASS COAST,Cross intersection,060,-38.496697,145.238932
+T20160026385,7/12/2016,11:00:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.672065,145.617913
+T20160027180,17/12/2016,9:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.433019,145.496691
+T20160027228,17/12/2016,19:30:00,Saturday,1,Collision with vehicle,1,Day,BASS COAST,Cross intersection,060,-38.496687,145.257596
+T20160027327,19/12/2016,14:28:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.549739,145.476211
+T20160027626,23/12/2016,3:20:00,Friday,7,Fall from or in moving vehicle,3,Dark Street lights on,BASS COAST,Not at intersection,888,-38.45927,145.214811
+T20160027673,23/12/2016,15:38:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.514673,145.440603
+T20160027701,11/12/2016,11:00:00,Sunday,8,No collision and no object struck,3,Day,BASS COAST,T intersection,999,-38.484268,145.57112
+T20160027828,26/12/2016,19:00:00,Monday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Not at intersection,050,-38.381456,145.549771
+T20160028135,30/12/2016,12:30:00,Friday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.392752,145.540723
+T20170000055,1/1/2017,19:00:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.456146,145.2224
+T20170000693,12/1/2017,22:20:00,Thursday,2,Struck Pedestrian,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.500699,145.461078
+T20170000876,15/1/2017,14:30:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,999,-38.40752,145.530234
+T20170001340,22/1/2017,16:30:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.46665,145.537689
+T20170001399,23/1/2017,13:00:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.38107,145.554009
+T20170001488,24/1/2017,20:20:00,Tuesday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,T intersection,050,-38.604899,145.590983
+T20170001531,25/1/2017,7:30:00,Wednesday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,040,-38.50224,145.229502
+T20170001539,25/1/2017,13:45:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.52703,145.334846
+T20170002037,25/12/2016,12:00:00,Sunday,8,No collision and no object struck,3,Day,BASS COAST,Cross intersection,060,-38.60606,145.59115
+T20170002526,8/2/2017,16:40:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.472201,145.474807
+T20170002743,14/11/2016,16:00:00,Monday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,999,-38.5048,145.229501
+T20170003342,19/2/2017,12:00:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.516529,145.342933
+T20170003645,23/2/2017,12:10:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.630982,145.725496
+T20170003690,23/2/2017,16:50:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.362439,145.638739
+T20170003721,24/2/2017,9:20:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.46361,145.20143
+T20170003979,27/2/2017,13:00:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.34787,145.558218
+T20170004241,2/3/2017,9:45:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.45521,145.20144
+T20170004940,11/3/2017,11:20:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.521509,145.431299
+T20170005137,14/3/2017,8:15:00,Tuesday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,050,-38.609392,145.59517
+T20170005300,16/3/2017,12:45:00,Thursday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Not at intersection,100,-38.323689,145.542152
+T20170006007,25/3/2017,4:14:00,Saturday,4,Collision with a fixed object,1,Dark Street lights on,BASS COAST,Not at intersection,080,-38.520995,145.333478
+T20170006318,29/3/2017,7:30:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.472201,145.474807
+T20170006397,24/3/2017,11:15:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.586316,145.809977
+T20170006581,1/4/2017,12:33:00,Saturday,4,Collision with a fixed object,2,Day,BASS COAST,T intersection,100,-38.528713,145.559138
+T20170006631,1/4/2017,18:10:00,Saturday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.510698,145.564739
+T20170006788,4/4/2017,16:00:00,Tuesday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,Not at intersection,050,-38.602672,145.59177
+T20170007024,7/4/2017,17:50:00,Friday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,Not at intersection,080,-38.480331,145.178251
+T20170007434,12/4/2017,18:10:00,Wednesday,4,Collision with a fixed object,2,Dark Street lights on,BASS COAST,Not at intersection,050,-38.4145,145.476607
+T20170008132,18/4/2017,16:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.605804,145.593721
+T20170008229,25/4/2017,12:00:00,Tuesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.53334,145.453171
+T20170008244,25/4/2017,18:15:00,Tuesday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,T intersection,100,-38.472201,145.474807
+T20170008691,2/5/2017,15:00:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.304664,145.569507
+T20170008741,3/5/2017,8:50:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.60907,145.589229
+T20170008970,6/5/2017,18:08:00,Saturday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,T intersection,070,-38.58882,145.580919
+T20170009044,8/5/2017,1:15:00,Monday,3,Struck animal,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.31343,145.540933
+T20170010828,3/6/2017,7:50:00,Saturday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,050,-38.44937,145.2435
+T20170011396,10/6/2017,19:15:00,Saturday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,T intersection,080,-38.521077,145.334047
+T20170012034,10/6/2017,14:00:00,Saturday,4,Collision with a fixed object,3,Day,BASS COAST,T intersection,999,-38.579746,145.631809
+T20170012500,26/6/2017,13:25:00,Monday,5,collision with some other object,2,Day,BASS COAST,Not at intersection,100,-38.562905,145.531641
+T20170012781,18/6/2017,16:20:00,Sunday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,060,-38.66509,145.598605
+T20170012907,1/7/2017,22:10:00,Saturday,4,Collision with a fixed object,2,Dark Street lights on,BASS COAST,Not at intersection,050,-38.452331,145.2368
+T20170013228,12/3/2017,6:30:00,Sunday,8,No collision and no object struck,3,Dark Street lights unknown,BASS COAST,Not at intersection,100,-38.561096,145.50445
+T20170013496,11/7/2017,16:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.46364,145.238984
+T20170013835,16/7/2017,16:25:00,Sunday,1,Collision with vehicle,1,Day,BASS COAST,T intersection,100,-38.472201,145.474807
+T20170014452,26/7/2017,10:00:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.55509,145.65267
+T20170014516,26/7/2017,16:45:00,Wednesday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,060,-38.606259,145.589151
+T20170015058,6/7/2017,9:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.61383,145.59851
+T20170015393,9/8/2017,7:45:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.53488,145.550852
+T20170015402,9/8/2017,8:40:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.496697,145.23295
+T20170015893,16/8/2017,18:15:00,Wednesday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Multiple intersection,080,-38.47323,145.238998
+T20170015986,18/8/2017,8:30:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.362317,145.658803
+T20170015987,18/8/2017,9:35:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.491512,145.266827
+T20170015988,18/8/2017,10:48:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.450284,145.243503
+T20170016521,26/8/2017,16:55:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.498095,145.273229
+T20170017006,3/9/2017,14:08:00,Sunday,1,Collision with vehicle,1,Day,BASS COAST,Not at intersection,100,-38.312735,145.582142
+T20170017551,29/5/2017,8:50:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.496601,145.160436
+T20170017640,7/9/2017,18:45:00,Thursday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Not at intersection,070,-38.590829,145.585086
+T20170017930,18/9/2017,14:06:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,999,-38.608729,145.588996
+T20170018090,20/9/2017,14:20:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,040,-38.600279,145.60018
+T20170018815,2/10/2017,15:30:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.60596,145.58852
+T20170019411,12/10/2017,11:00:00,Thursday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.62127,145.72238
+T20170019916,19/10/2017,12:45:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.59769,145.579496
+T20170020028,20/10/2017,16:17:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.59811,145.592438
+T20170020283,23/10/2017,17:20:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,050,-38.633943,145.728879
+T20170020330,24/10/2017,16:00:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.500129,145.461469
+T20170020413,26/10/2017,10:34:00,Thursday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.58454,145.602319
+T20170020425,26/10/2017,8:15:00,Thursday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,050,-38.41548,145.52223
+T20170020953,2/11/2017,15:30:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.612974,145.593961
+T20170022115,19/11/2017,12:20:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.520703,145.37438
+T20170023487,8/12/2017,22:15:00,Friday,4,Collision with a fixed object,2,Dark Street lights on,BASS COAST,Not at intersection,060,-38.456143,145.23031
+T20170023711,12/12/2017,8:45:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.521752,145.430967
+T20170023846,14/12/2017,2:20:00,Thursday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.42594,145.45883
+T20170024566,23/12/2017,9:05:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.528224,145.3389
+T20170024642,25/12/2017,18:30:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.456155,145.248404
+T20170024693,26/12/2017,17:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.51993,145.43345
+T20170024696,26/12/2017,19:50:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.64174,145.602079
+T20170024851,29/12/2017,12:08:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.456156,145.23724
+T20180000026,31/12/2017,8:30:00,Sunday,8,No collision and no object struck,2,Day,BASS COAST,T intersection,050,-38.672752,145.615592
+T20180000153,3/1/2018,16:50:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.517393,145.319729
+T20180000276,5/1/2018,9:54:00,Friday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,050,-38.606214,145.589601
+T20180000339,6/1/2018,17:40:00,Saturday,5,collision with some other object,3,Day,BASS COAST,Not at intersection,100,-38.565353,145.558898
+T20180000599,11/1/2018,10:55:00,Thursday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,050,-38.501478,145.25513
+T20180000880,15/1/2018,17:25:00,Monday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.577019,145.632745
+T20180000938,16/1/2018,16:25:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.6176,145.722929
+T20180000989,17/1/2018,9:50:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.496689,145.24208
+T20180001080,18/1/2018,17:45:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.360602,145.642512
+T20180001159,19/1/2018,22:10:00,Friday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,100,-38.433019,145.496691
+T20180001162,20/1/2018,1:00:00,Saturday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Not at intersection,050,-38.44894,145.234472
+T20180001370,1/6/2017,13:00:00,Thursday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,080,-38.46504,145.238985
+T20180002297,28/1/2018,3:00:00,Sunday,3,Struck animal,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.64984,145.611436
+T20180002943,14/2/2018,21:45:00,Wednesday,6,Vehicle overturned (no collision),3,Dark No street lights,BASS COAST,Not at intersection,100,-38.428461,145.505761
+T20180003040,16/2/2018,20:10:00,Friday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,999,-38.634551,145.729819
+T20180003534,23/2/2018,15:05:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.517739,145.661167
+T20180003632,24/2/2018,8:40:00,Saturday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.621286,145.695941
+T20180003811,27/2/2018,18:40:00,Tuesday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Cross intersection,080,-38.625023,145.733005
+T20180004137,19/2/2018,15:00:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.592921,145.589501
+T20180004235,5/3/2018,16:11:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Cross intersection,080,-38.496665,145.201379
+T20180004435,7/3/2018,19:44:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Dead end,060,-38.42097,145.4773
+T20180004669,11/3/2018,2:10:00,Sunday,3,Struck animal,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.496605,145.21781
+T20180004683,10/3/2018,15:30:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.514667,145.35175
+T20180004841,13/3/2018,19:30:00,Tuesday,3,Struck animal,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.626628,145.755161
+T20180005575,24/3/2018,12:55:00,Saturday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.526644,145.443132
+T20180005589,24/3/2018,15:10:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.450287,145.23759
+T20180005726,26/3/2018,11:15:00,Monday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,100,-38.518711,145.660923
+T20180005898,28/3/2018,11:48:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.631921,145.733848
+T20180006573,6/4/2018,20:35:00,Friday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,T intersection,080,-38.496601,145.160436
+T20180007118,15/4/2018,16:28:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.529481,145.447937
+T20180007448,20/4/2018,7:45:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.496697,145.238932
+T20180007598,22/4/2018,16:40:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.521847,145.334155
+T20180008196,1/5/2018,14:20:00,Tuesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,060,-38.413853,145.54321
+T20180008318,3/5/2018,8:50:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.58882,145.580919
+T20180008515,5/5/2018,14:15:00,Saturday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.42141,145.688401
+T20180008520,5/5/2018,14:16:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.421468,145.688336
+T20180008762,9/5/2018,8:30:00,Wednesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,050,-38.629732,145.722229
+T20180009057,13/5/2018,17:35:00,Sunday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,080,-38.521023,145.333599
+T20180009087,30/3/2018,13:45:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,090,-38.523575,145.413641
+T20180009385,14/5/2018,19:40:00,Monday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,050,-38.605156,145.588387
+T20180009527,20/5/2018,19:00:00,Sunday,4,Collision with a fixed object,2,Dark Street lights on,BASS COAST,Not at intersection,100,-38.334812,145.554586
+T20180009730,23/5/2018,9:20:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.534509,145.454103
+T20180010524,2/6/2018,10:18:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.472201,145.474807
+T20180010646,6/6/2018,6:30:00,Wednesday,8,No collision and no object struck,2,Dark No street lights,BASS COAST,T intersection,050,-38.482077,145.234238
+T20180012153,28/6/2018,23:18:00,Thursday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.631377,145.801427
+T20180012397,25/6/2018,16:00:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.561157,145.51462
+T20180013332,1/7/2018,15:00:00,Sunday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,999,-38.523811,145.543439
+T20180013387,15/7/2018,3:35:00,Sunday,4,Collision with a fixed object,2,Dark Street lights unknown,BASS COAST,Not at intersection,080,-38.515172,145.346251
+T20180013409,17/7/2018,15:35:00,Tuesday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,050,-38.6307,145.730142
+T20180013491,18/7/2018,10:10:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.48615,145.464482
+T20180013519,19/7/2018,8:50:00,Thursday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,050,-38.6051,145.58895
+T20180013557,19/7/2018,12:54:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.521752,145.430967
+T20180013698,21/7/2018,16:45:00,Saturday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.45933,145.25616
+T20180014075,27/7/2018,8:00:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.59436,145.72529
+T20180015286,13/8/2018,9:40:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.62698,145.721973
+T20180015979,24/8/2018,11:30:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.394362,145.539505
+T20180015990,24/8/2018,13:35:00,Friday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,060,-38.482087,145.24873
+T20180016597,2/9/2018,12:30:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.430276,145.684167
+T20180017365,14/9/2018,10:45:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.621208,145.6954
+T20180017496,16/9/2018,10:00:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.531744,145.450237
+T20180017666,19/9/2018,10:20:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.504749,145.285231
+T20180017766,16/9/2018,10:15:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.532234,145.451538
+T20180018229,27/9/2018,12:30:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.520744,145.368958
+T20180019272,14/10/2018,7:45:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.562682,145.52984
+T20180019797,22/10/2018,8:50:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.59248,145.58855
+T20180019901,23/10/2018,17:56:00,Tuesday,4,Collision with a fixed object,2,Day,BASS COAST,Cross intersection,050,-38.456151,145.238985
+T20180020757,5/11/2018,16:21:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.564821,145.55738
+T20180020990,9/11/2018,17:45:00,Friday,2,Struck Pedestrian,3,Day,BASS COAST,T intersection,060,-38.595727,145.595321
+T20180021167,12/11/2018,12:15:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.456153,145.23846
+T20180022186,26/11/2018,14:10:00,Monday,3,Struck animal,2,Day,BASS COAST,Not at intersection,100,-38.532098,145.588381
+T20180023114,9/12/2018,14:10:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.46688,145.47769
+T20180023539,14/12/2018,18:59:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.31534,145.540521
+T20180024060,21/12/2018,16:00:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,060,-38.62789,145.730648
+T20180024334,27/12/2018,7:00:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.498095,145.273229
+T20190000360,7/1/2019,11:55:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.521077,145.334047
+T20190000394,8/1/2019,0:45:00,Tuesday,3,Struck animal,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.5088,145.35574
+T20190000443,8/1/2019,15:50:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.46731,145.22017
+T20190000718,13/1/2019,11:20:00,Sunday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.645671,145.609437
+T20190000923,16/1/2019,13:10:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.309317,145.576083
+T20190001150,20/1/2019,2:00:00,Sunday,6,Vehicle overturned (no collision),2,Dark No street lights,BASS COAST,Not at intersection,100,-38.485485,145.567741
+T20190001731,28/1/2019,11:00:00,Monday,8,No collision and no object struck,2,Day,BASS COAST,Not at intersection,999,-38.456519,145.541702
+T20190001779,30/1/2019,4:35:00,Wednesday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,T intersection,100,-38.410693,145.572312
+T20190002092,3/2/2019,12:15:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.47167,145.54265
+T20190002794,13/2/2019,18:10:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.496697,145.238932
+T20190002992,16/2/2019,10:10:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.550902,145.6838
+T20190003105,19/10/2018,4:00:00,Friday,5,collision with some other object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.55856,145.578797
+T20190003545,23/2/2019,18:10:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.382014,145.552708
+T20190003606,24/2/2019,15:20:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.516595,145.316679
+T20190003647,25/2/2019,12:05:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.62698,145.721973
+T20190003807,27/2/2019,8:25:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.382014,145.552708
+T20190003984,1/3/2019,9:10:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.382014,145.552708
+T20190004556,9/3/2019,18:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.612974,145.593961
+T20190005500,22/3/2019,4:45:00,Friday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Not at intersection,100,-38.50202,145.46037
+T20190005725,26/3/2019,11:30:00,Tuesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Cross intersection,060,-38.514661,145.353464
+T20190006103,1/4/2019,6:50:00,Monday,3,Struck animal,2,Dark Street lights unknown,BASS COAST,Not at intersection,060,-38.514935,145.347038
+T20190006437,1/3/2019,19:50:00,Friday,7,Fall from or in moving vehicle,2,Day,BASS COAST,Not at intersection,040,-38.39736,145.536431
+T20190006633,8/4/2019,5:52:00,Monday,4,Collision with a fixed object,1,Dark Street lights on,BASS COAST,Cross intersection,060,-38.46364,145.238984
+T20190007067,13/4/2019,15:50:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.407309,145.530557
+T20190007171,15/4/2019,16:10:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.472201,145.474807
+T20190007435,19/4/2019,10:20:00,Friday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.469333,145.451929
+T20190007715,24/4/2019,8:20:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.525052,145.446941
+T20190007739,24/4/2019,11:49:00,Wednesday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Not at intersection,100,-38.372918,145.628298
+T20190007838,25/4/2019,15:15:00,Thursday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.655848,145.599974
+T20190007864,26/4/2019,13:10:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.520284,145.338841
+T20190007978,28/4/2019,17:00:00,Sunday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.563644,145.548664
+T20190008170,1/5/2019,10:29:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,999,-38.62761,145.717238
+T20190008228,2/5/2019,9:45:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.601393,145.600945
+T20190008388,4/5/2019,7:38:00,Saturday,1,Collision with vehicle,1,Day,BASS COAST,Not at intersection,100,-38.52542,145.446874
+T20190008873,11/5/2019,14:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.635621,145.718942
+T20190009928,27/5/2019,9:30:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.53358,145.45337
+T20190010764,8/6/2019,19:35:00,Saturday,8,No collision and no object struck,1,Dark No street lights,BASS COAST,Not at intersection,100,-38.307632,145.528918
+T20190011319,18/6/2019,11:50:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.478825,145.470149
+T20190011692,23/6/2019,19:35:00,Sunday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.423879,145.442632
+T20190011931,27/6/2019,7:08:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.574362,145.708148
+T20190011934,27/6/2019,9:00:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.519676,145.340827
+T20190012143,30/6/2019,12:42:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.433053,145.497519
+T20190012223,1/7/2019,10:30:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,060,-38.498095,145.273229
+T20190012316,28/6/2019,10:00:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.63011,145.740413
+T20190012491,5/7/2019,6:30:00,Friday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.475248,145.6371
+T20190013309,17/7/2019,14:45:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.521765,145.335284
+T20190013541,20/7/2019,17:00:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.472201,145.474807
+T20190013592,21/7/2019,16:25:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.424678,145.448948
+T20190014623,5/7/2019,10:15:00,Friday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.378138,145.567218
+T20190014836,8/8/2019,6:30:00,Thursday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,080,-38.58882,145.580919
+T20190015148,11/8/2019,21:30:00,Sunday,5,collision with some other object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.569203,145.716287
+T20190015702,11/8/2019,11:11:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,050,-38.606052,145.588536
+T20190015936,17/7/2019,20:40:00,Wednesday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Y intersection,060,-38.488196,145.4641
+T20190016582,29/8/2019,13:22:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.573495,145.71578
+T20190018102,17/9/2019,21:12:00,Tuesday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,T intersection,080,-38.62761,145.717238
+T20190019117,25/9/2019,7:00:00,Wednesday,4,Collision with a fixed object,2,Unk.,BASS COAST,Not at intersection,100,-38.550853,145.672125
+T20190019919,11/10/2019,13:19:00,Friday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,080,-38.579415,145.574053
+T20190020280,19/7/2019,13:45:00,Friday,1,Collision with vehicle,3,Unk.,BASS COAST,T intersection,050,-38.612413,145.585703
+T20190020410,18/10/2019,1:00:00,Friday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.584914,145.602242
+T20190020811,11/9/2019,11:00:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.600653,145.588591
+T20190020915,24/10/2019,11:11:00,Thursday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,060,-38.514779,145.13821
+T20190020988,25/10/2019,6:30:00,Friday,8,No collision and no object struck,3,Dusk/Dawn,BASS COAST,Not at intersection,050,-38.448062,145.241331
+T20190021134,26/10/2019,15:58:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.608251,145.758894
+T20190021655,25/10/2019,12:27:00,Friday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.450457,145.658596
+T20190021850,4/11/2019,16:57:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.532167,145.451363
+T20190022719,14/11/2019,10:19:00,Thursday,5,collision with some other object,3,Day,BASS COAST,Not at intersection,100,-38.342922,145.644577
+T20190022872,17/11/2019,15:15:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.486866,145.483345
+T20190023130,20/11/2019,7:00:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.518525,145.324053
+T20190023422,23/11/2019,12:35:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.433019,145.496691
+T20190023480,24/11/2019,9:35:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.492999,145.58085
+T20190023668,25/11/2019,17:30:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,050,-38.512842,145.301721
+T20190023873,28/11/2019,18:20:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.505919,145.287583
+T20190023958,29/11/2019,19:25:00,Friday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Cross intersection,060,-38.606998,145.593889
+T20190024317,3/12/2019,18:11:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,050,-38.521344,145.338657
+T20190024675,7/12/2019,12:30:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.46457,145.61981
+T20190025111,12/12/2019,11:15:00,Thursday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.670826,145.660307
+T20190025206,13/12/2019,12:37:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.51926,145.341252
+T20190025426,16/12/2019,9:21:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,050,-38.45065,145.238979
+T20190025448,16/12/2019,11:40:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.453096,145.238976
+T20190025693,19/12/2019,10:50:00,Thursday,2,Struck Pedestrian,3,Day,BASS COAST,T intersection,060,-38.634002,145.729423
+T20190026127,24/12/2019,10:40:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.515645,145.359458
+T20190026438,29/12/2019,23:30:00,Sunday,4,Collision with a fixed object,2,Dark Street lights on,BASS COAST,Cross intersection,100,-38.467813,145.439996
+T20200000004,31/12/2019,22:00:00,Tuesday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Not at intersection,060,-38.431188,145.447515
+T20200000308,5/1/2020,17:55:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.468457,145.182042
+T20200000376,6/1/2020,15:30:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.513324,145.449299
+T20200000433,7/1/2020,10:55:00,Tuesday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,050,-38.633905,145.728533
+T20200000482,7/1/2020,22:00:00,Tuesday,2,Struck Pedestrian,1,Dark No street lights,BASS COAST,Not at intersection,100,-38.52688,145.442273
+T20200001298,18/1/2020,11:10:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.377098,145.558176
+T20200003317,12/2/2020,12:05:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.530885,145.548762
+T20200003758,29/12/2019,13:27:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,999,-38.459038,145.546983
+T20200003880,24/10/2019,13:00:00,Thursday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,999,-38.599958,145.777897
+T20200004549,25/2/2020,20:55:00,Tuesday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.523899,145.33232
+T20200005022,1/3/2020,21:30:00,Sunday,2,Struck Pedestrian,2,Dark No street lights,BASS COAST,Not at intersection,060,-38.637608,145.721736
+T20200005148,3/3/2020,11:20:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.60606,145.59115
+T20200005353,5/3/2020,13:00:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.607515,145.607125
+T20200005618,7/3/2020,17:45:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.606696,145.584827
+T20200005704,9/3/2020,14:02:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.609107,145.589272
+T20200006110,11/3/2020,15:50:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.609659,145.596081
+T20200006464,17/3/2020,23:07:00,Tuesday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,050,-38.424635,145.529149
+T20200006605,17/3/2020,7:40:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.564885,145.579355
+T20200007028,26/3/2020,17:15:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.60086,145.589856
+T20200007519,4/4/2020,9:10:00,Saturday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.562665,145.529702
+T20200008147,19/4/2020,19:00:00,Sunday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.576196,145.701369
+T20200008736,2/5/2020,6:15:00,Saturday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.548868,145.720291
+T20200008893,14/8/2019,12:00:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,999,-38.472533,145.630437
+T20200008933,5/5/2020,16:08:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.606166,145.603945
+T20200009018,7/5/2020,21:10:00,Thursday,2,Struck Pedestrian,2,Dark Street lights on,BASS COAST,Not at intersection,060,-38.605481,145.596837
+T20200009299,13/5/2020,11:15:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.455432,145.238979
+T20200009960,23/5/2020,8:30:00,Saturday,5,collision with some other object,3,Day,BASS COAST,Not at intersection,060,-38.514661,145.353246
+T20200010855,5/6/2020,14:30:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.511314,145.298207
+T20200011150,13/5/2020,15:20:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Multiple intersection,100,-38.433019,145.496691
+T20200011486,24/3/2020,15:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.612478,145.634222
+T20200012493,28/6/2020,14:31:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.61499,145.585337
+T20200013197,1/7/2020,6:30:00,Wednesday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Not at intersection,050,-38.46364,145.238984
+T20200014316,1/7/2020,21:00:00,Wednesday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.330127,145.548495
+T20200014411,29/7/2020,10:45:00,Wednesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.528623,145.720016
+T20200014487,31/7/2020,11:10:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.566768,145.561268
+T20200014556,31/7/2020,18:50:00,Friday,8,No collision and no object struck,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.470128,145.4582
+T20200014571,1/8/2020,19:50:00,Saturday,2,Struck Pedestrian,3,Dark Street lights on,BASS COAST,Not at intersection,050,-38.607022,145.588704
+T20200014649,3/8/2020,8:15:00,Monday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Not at intersection,100,-38.470133,145.458235
+T20200015080,12/8/2020,5:30:00,Wednesday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.586409,145.617278
+T20200015261,6/8/2020,14:27:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.520838,145.37541
+T20200015459,21/8/2020,8:30:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.596695,145.592209
+T20200015718,26/8/2020,16:35:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.427034,145.467309
+T20200016294,7/9/2020,16:16:00,Monday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Not at intersection,100,-38.627102,145.584152
+T20200016616,14/9/2020,16:05:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,T intersection,060,-38.605179,145.599745
+T20200017158,25/9/2020,19:25:00,Friday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,060,-38.456133,145.210688
+T20200017560,3/10/2020,13:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.616574,145.741527
+T20200017839,8/10/2020,16:40:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.294434,145.555428
+T20200018096,14/10/2020,0:15:00,Wednesday,4,Collision with a fixed object,1,Dark No street lights,BASS COAST,Not at intersection,100,-38.380975,145.61554
+T20200018639,22/10/2020,20:22:00,Thursday,6,Vehicle overturned (no collision),3,Dark Street lights on,BASS COAST,Not at intersection,100,-38.635678,145.603032
+T20200018897,27/10/2020,9:14:00,Tuesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,T intersection,080,-38.519676,145.340827
+T20200018925,27/10/2020,14:35:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.362679,145.638494
+T20200019295,2/11/2020,8:35:00,Monday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.539858,145.556544
+T20200019454,27/10/2020,16:00:00,Tuesday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.455616,145.238981
+T20200020022,12/11/2020,17:28:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,050,-38.61572,145.592458
+T20200021296,28/11/2020,16:30:00,Saturday,4,Collision with a fixed object,3,Day,BASS COAST,Cross intersection,050,-38.605804,145.593721
+T20200022215,9/12/2020,21:08:00,Wednesday,2,Struck Pedestrian,3,Dark No street lights,BASS COAST,Not at intersection,060,-38.456132,145.210027
+T20200023241,13/11/2020,15:30:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.605156,145.588387
+T20200023780,28/12/2020,21:45:00,Monday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.393587,145.539991
+T20200023813,30/12/2020,12:40:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.500191,145.27631
+T20200023846,27/12/2020,13:00:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.516944,145.318012
+T20210000223,14/11/2020,23:00:00,Saturday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.427572,145.508217
+T20210000225,4/1/2021,13:20:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.563775,145.543006
+T20210000278,4/1/2021,22:00:00,Monday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,080,-38.475376,145.257639
+T20210000566,9/1/2021,18:45:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.512662,145.443318
+T20210000670,11/1/2021,12:00:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.6371,145.714991
+T20210001363,10/1/2021,16:30:00,Sunday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,060,-38.454278,145.204322
+T20210001380,20/1/2021,9:50:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,060,-38.431845,145.447373
+T20210001630,15/1/2021,11:30:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.592104,145.580297
+T20210001890,27/1/2021,10:00:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,040,-38.607263,145.591324
+T20210002665,24/1/2021,13:00:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,999,-38.520706,145.368536
+T20210003160,6/2/2021,15:45:00,Saturday,8,No collision and no object struck,3,Day,BASS COAST,T intersection,060,-38.410693,145.572312
+T20210003914,22/2/2021,10:25:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.609522,145.589752
+T20210004054,23/2/2021,14:15:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.334869,145.6184
+T20210004963,6/3/2021,9:45:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.522968,145.409289
+T20210005059,8/3/2021,0:20:00,Monday,6,Vehicle overturned (no collision),3,Dark Street lights on,BASS COAST,Not at intersection,060,-38.45233,145.242483
+T20210005125,8/3/2021,16:30:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.604866,145.591317
+T20210005170,6/3/2021,11:15:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.605783,145.593912
+T20210005207,9/3/2021,11:04:00,Tuesday,2,Struck Pedestrian,2,Day,BASS COAST,Cross intersection,060,-38.407583,145.530382
+T20210005599,13/3/2021,16:05:00,Saturday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.342852,145.644359
+T20210005973,17/3/2021,8:20:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.521201,145.378273
+T20210006046,18/3/2021,18:55:00,Thursday,6,Vehicle overturned (no collision),3,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.4671,145.22017
+T20210006294,21/3/2021,16:10:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.342592,145.641884
+T20210006964,29/3/2021,3:13:00,Monday,6,Vehicle overturned (no collision),3,Dark No street lights,BASS COAST,Not at intersection,100,-38.469215,145.627507
+T20210007207,31/3/2021,12:10:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.382162,145.552538
+T20210007273,1/4/2021,10:47:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.567643,145.562667
+T20210007443,3/4/2021,11:45:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.496601,145.160436
+T20210007759,7/4/2021,8:00:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,040,-38.52569,145.446751
+T20210007794,7/4/2021,17:16:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.562407,145.527623
+T20210007914,9/4/2021,9:20:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.456157,145.245946
+T20210008568,31/3/2021,11:51:00,Wednesday,2,Struck Pedestrian,2,Unk.,BASS COAST,Not at intersection,060,-38.45059,145.238979
+T20210008701,19/4/2021,11:05:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,T intersection,100,-38.595906,145.725846
+T20210008822,20/4/2021,13:35:00,Tuesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.486961,145.647479
+T20210008961,22/4/2021,10:37:00,Thursday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,888,-38.45517,145.238977
+T20210009148,24/4/2021,15:10:00,Saturday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,050,-38.450286,145.238163
+T20210009326,26/4/2021,15:40:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,050,-38.616266,145.585855
+T20210009708,1/5/2021,1:20:00,Saturday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.531009,145.448985
+T20210009948,2/5/2021,14:15:00,Sunday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.413689,145.544346
+T20210010205,6/5/2021,5:42:00,Thursday,6,Vehicle overturned (no collision),3,Dark No street lights,BASS COAST,Not at intersection,100,-38.468702,145.627186
+T20210010866,14/5/2021,12:10:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.509629,145.698245
+T20210011434,21/5/2021,9:40:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.605156,145.588387
+T20210011880,26/5/2021,12:55:00,Wednesday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,999,-38.52638,145.445021
+T20210011897,23/4/2021,18:00:00,Friday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,999,-38.524834,145.724635
+T20210012060,28/5/2021,12:33:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.496687,145.257596
+T20210012745,9/6/2021,7:05:00,Wednesday,2,Struck Pedestrian,3,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.590695,145.584803
+T20210013385,18/6/2021,17:44:00,Friday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,T intersection,060,-38.667593,145.621061
+T20210013588,11/6/2021,17:20:00,Friday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,050,-38.452325,145.238981
+T20210013678,22/6/2021,15:13:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.625847,145.741119
+T20210014089,27/6/2021,13:40:00,Sunday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,050,-38.593035,145.592244
+T20210015264,11/7/2021,13:40:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.515645,145.359458
+T20210016084,22/7/2021,9:00:00,Thursday,2,Struck Pedestrian,3,Day,BASS COAST,T intersection,999,-38.605738,145.58848
+T20210016654,1/8/2021,0:02:00,Sunday,6,Vehicle overturned (no collision),3,Dark No street lights,BASS COAST,Not at intersection,100,-38.500821,145.466838
+T20210016773,2/8/2021,14:00:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.419141,145.463699
+T20210017209,9/8/2021,10:20:00,Monday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,050,-38.63618,145.710587
+T20210017880,28/6/2021,14:40:00,Monday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,100,-38.508115,145.45058
+T20210018003,22/8/2021,18:38:00,Sunday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,060,-38.450285,145.238979
+T20210018218,26/8/2021,23:39:00,Thursday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,T intersection,100,-38.496601,145.160436
+T20210018346,29/8/2021,16:25:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.452325,145.220171
+T20210018717,5/9/2021,17:00:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,060,-38.612974,145.593961
+T20210019018,11/9/2021,6:45:00,Saturday,4,Collision with a fixed object,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.358255,145.561233
+T20210019053,12/9/2021,8:15:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,080,-38.404582,145.532778
+T20210019073,12/9/2021,13:15:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.594775,145.600547
+T20210019282,16/9/2021,5:30:00,Thursday,2,Struck Pedestrian,3,Dark No street lights,BASS COAST,Not at intersection,999,-38.563607,145.548373
+T20210019526,20/9/2021,10:50:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.487744,145.263171
+T20210020723,13/10/2021,8:15:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.606317,145.588583
+T20210021372,22/10/2021,18:30:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.482092,145.252794
+T20210021996,1/11/2021,14:56:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,080,-38.472201,145.474807
+T20210022166,25/10/2021,20:38:00,Monday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Not at intersection,060,-38.593438,145.59056
+T20210023235,17/11/2021,6:30:00,Wednesday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,080,-38.419545,145.550365
+T20210023587,21/11/2021,14:32:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.562967,145.714048
+T20210023657,22/11/2021,13:15:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Cross intersection,100,-38.50014,145.461947
+T20210023770,19/11/2021,15:15:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.524174,145.37231
+T20210024019,26/11/2021,13:15:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,080,-38.463637,145.229712
+T20210024059,26/11/2021,19:25:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.472278,145.187447
+T20210024109,27/11/2021,10:20:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.500197,145.46192
+T20210024971,7/12/2021,0:10:00,Tuesday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,050,-38.452325,145.238981
+T20210025316,10/12/2021,18:00:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.563716,145.543329
+T20210025818,16/12/2021,16:45:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.561071,145.499728
+T20210026637,26/12/2021,12:13:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.486637,145.647245
+T20220000070,1/1/2022,22:10:00,Saturday,6,Vehicle overturned (no collision),2,Dark No street lights,BASS COAST,T intersection,100,-38.627784,145.808653
+T20220000092,2/1/2022,10:40:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,060,-38.511894,145.299391
+T20220000150,3/1/2022,12:42:00,Monday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,060,-38.636766,145.711779
+T20220000157,3/1/2022,14:11:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.51633,145.438357
+T20220000421,7/1/2022,14:22:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.466621,145.175325
+T20220000475,8/1/2022,21:52:00,Saturday,8,No collision and no object struck,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.517949,145.321853
+T20220000638,1/12/2021,0:01:00,Wednesday,6,Vehicle overturned (no collision),2,Dark Street lights on,BASS COAST,Not at intersection,080,-38.463614,145.208452
+T20220001396,23/1/2022,4:35:00,Sunday,4,Collision with a fixed object,2,Dark Street lights on,BASS COAST,Not at intersection,060,-38.514663,145.354086
+T20220001449,23/1/2022,21:46:00,Sunday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,T intersection,100,-38.353289,145.649056
+T20220001867,28/1/2022,21:00:00,Friday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Not at intersection,070,-38.587599,145.579275
+T20220002110,31/1/2022,18:25:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.527244,145.371631
+T20220002752,13/1/2022,12:30:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.637329,145.60396
+T20220002883,10/2/2022,11:04:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.631921,145.733848
+T20220003081,12/2/2022,15:05:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.488196,145.4641
+T20220003374,15/2/2022,9:30:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,070,-38.58653,145.577959
+T20220003905,22/2/2022,6:30:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,T intersection,080,-38.62761,145.717238
+T20220003913,11/2/2022,23:30:00,Friday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.580805,145.628082
+T20220005577,12/3/2022,11:15:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.635837,145.727764
+T20220005662,13/3/2022,11:45:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.627784,145.808653
+T20220006876,27/3/2022,17:00:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.616946,145.662957
+T20220007103,30/3/2022,11:35:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.584144,145.753133
+T20220007218,31/3/2022,13:00:00,Thursday,4,Collision with a fixed object,2,Day,BASS COAST,T intersection,100,-38.570618,145.567395
+T20220008026,10/4/2022,11:30:00,Sunday,5,collision with some other object,2,Day,BASS COAST,Not at intersection,100,-38.479143,145.641397
+T20220008201,12/4/2022,15:40:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.605077,145.601076
+T20220008304,13/4/2022,12:50:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.61502,145.643934
+T20220008506,15/4/2022,11:49:00,Friday,4,Collision with a fixed object,2,Day,BASS COAST,Not at intersection,100,-38.63468,145.603129
+T20220008541,16/4/2022,11:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,100,-38.46361,145.20143
+T20220008587,16/4/2022,19:50:00,Saturday,2,Struck Pedestrian,3,Dark Street lights unknown,BASS COAST,T intersection,050,-38.450213,145.242008
+T20220008866,20/4/2022,16:15:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,050,-38.562462,145.543267
+T20220009367,1/4/2022,22:15:00,Friday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Not at intersection,999,-38.454406,145.221156
+T20220010541,10/5/2022,15:20:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,040,-38.489429,145.264806
+T20220011095,16/5/2022,17:45:00,Monday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.426525,145.4634
+T20220011583,22/5/2022,18:00:00,Sunday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,080,-38.482546,145.257525
+T20220012152,23/5/2022,5:20:00,Monday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,060,-38.42097,145.4773
+T20220012782,6/6/2022,10:50:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.579932,145.57428
+T20220012900,31/3/2022,11:40:00,Thursday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,050,-38.521386,145.339096
+T20220012937,6/6/2022,5:25:00,Monday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Cross intersection,060,-38.606317,145.588583
+T20220013330,13/6/2022,7:10:00,Monday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.471695,145.542598
+T20220013836,19/6/2022,12:10:00,Sunday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,080,-38.670885,145.65632
+T20220013837,19/6/2022,13:53:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.605402,145.597669
+T20220013934,20/6/2022,16:38:00,Monday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.542838,145.459984
+T20220014526,4/6/2022,14:00:00,Saturday,8,No collision and no object struck,3,Day,BASS COAST,Not at intersection,050,-38.628161,145.730756
+T20220014814,1/7/2022,22:00:00,Friday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.521416,145.542232
+T20220015244,7/7/2022,16:49:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.592932,145.589524
+T20220015370,9/7/2022,13:00:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.509146,145.293858
+T20220015495,11/7/2022,10:39:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,060,-38.573764,145.587222
+T20220015875,15/7/2022,19:12:00,Friday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,Cross intersection,080,-38.472278,145.187447
+T20220016207,20/7/2022,10:10:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,050,-38.644754,145.711416
+T20220016301,21/7/2022,13:20:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,060,-38.514671,145.35047
+T20220016778,27/7/2022,10:41:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.580464,145.629361
+T20220016804,26/7/2022,17:16:00,Tuesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,050,-38.594859,145.597886
+T20220017659,7/8/2022,12:32:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.485908,145.645843
+T20220017953,11/8/2022,5:00:00,Thursday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,T intersection,050,-38.410789,145.427526
+T20220018174,13/8/2022,14:34:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.514674,145.66448
+T20220020318,8/9/2022,9:40:00,Thursday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,999,-38.458891,145.54463
+T20220020740,13/9/2022,9:15:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,999,-38.453462,145.238973
+T20220021098,18/9/2022,7:17:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.601845,145.599924
+T20220022263,3/10/2022,15:10:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.607515,145.607125
+T20220023102,14/10/2022,9:00:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.430558,145.502441
+T20220023120,14/10/2022,13:04:00,Friday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,050,-38.453228,145.238975
+T20220023128,14/10/2022,14:20:00,Friday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.611456,145.632844
+T20220023323,1/10/2022,11:50:00,Saturday,4,Collision with a fixed object,2,Unk.,BASS COAST,Not at intersection,999,-38.51359,145.595818
+T20220023849,23/10/2022,12:25:00,Sunday,2,Struck Pedestrian,3,Unk.,BASS COAST,T intersection,888,-38.590701,145.580507
+T20220026592,23/11/2022,16:48:00,Wednesday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,100,-38.532293,145.559572
+T20220026682,24/11/2022,22:00:00,Thursday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Cross intersection,080,-38.49657,145.220132
+T20220026860,27/11/2022,11:25:00,Sunday,1,Collision with vehicle,1,Day,BASS COAST,Not at intersection,080,-38.495807,145.270997
+T20220026975,7/10/2022,18:15:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.608453,145.591814
+T20220027608,5/12/2022,15:20:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,040,-38.490134,145.26549
+T20220027661,25/11/2022,7:25:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.472201,145.474807
+T20220028049,10/12/2022,11:22:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,060,-38.452259,145.234481
+T20220028370,13/12/2022,21:53:00,Tuesday,6,Vehicle overturned (no collision),2,Dark No street lights,BASS COAST,Not at intersection,080,-38.547942,145.499657
+T20220028793,18/12/2022,12:00:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.452078,145.443238
+T20220029106,21/12/2022,10:45:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.601901,145.599931
+T20220029118,18/12/2022,12:00:00,Sunday,8,No collision and no object struck,2,Day,BASS COAST,Not at intersection,999,-38.451007,145.656036
+T20220029427,24/12/2022,21:15:00,Saturday,1,Collision with vehicle,1,Unk.,BASS COAST,Multiple intersection,080,-38.467885,145.239
+T20220029475,25/12/2022,18:50:00,Sunday,1,Collision with vehicle,1,Day,BASS COAST,Cross intersection,080,-38.463446,145.201431
+T20220029496,26/12/2022,11:40:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.487488,145.647502
+T20220029708,29/12/2022,8:20:00,Thursday,6,Vehicle overturned (no collision),2,Day,BASS COAST,Not at intersection,100,-38.519566,145.689512
+T20220029812,30/12/2022,20:00:00,Friday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,080,-38.414255,145.561145
+T20220029827,31/12/2022,9:07:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.407583,145.530382
+T20230000026,1/1/2023,9:59:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.61757,145.722933
+T20230000037,1/1/2023,12:40:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.46364,145.238984
+T20230000074,2/1/2023,12:21:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.46361,145.20143
+T20230000152,3/1/2023,15:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,060,-38.605804,145.593721
+T20230000480,8/1/2023,8:45:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.45233,145.234818
+T20230000548,1/1/2023,12:50:00,Sunday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.626947,145.722176
+T20230000611,9/1/2023,23:00:00,Monday,8,No collision and no object struck,2,Dark Street lights on,BASS COAST,Not at intersection,050,-38.527896,145.336117
+T20230000709,5/1/2023,12:30:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.544442,145.461404
+T20230000810,21/12/2022,7:45:00,Wednesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,100,-38.495213,145.617283
+T20230000834,12/1/2023,14:58:00,Thursday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,060,-38.508002,145.29165
+T20230001299,18/1/2023,12:40:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.563061,145.532873
+T20230001364,19/1/2023,7:45:00,Thursday,1,Collision with vehicle,2,Day,BASS COAST,Not at intersection,100,-38.584053,145.816251
+T20230001389,14/1/2023,12:20:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.521538,145.381103
+T20230001641,1/11/2022,1:00:00,Tuesday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,110,-38.574607,145.707264
+T20230002207,27/1/2023,20:20:00,Friday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.566911,145.561493
+T20230002451,31/1/2023,17:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.515317,145.311788
+T20230002870,5/2/2023,15:20:00,Sunday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,060,-38.456156,145.237134
+T20230003648,15/2/2023,3:20:00,Wednesday,1,Collision with vehicle,3,Dark No street lights,BASS COAST,Not at intersection,100,-38.578572,145.648393
+T20230003703,15/2/2023,16:25:00,Wednesday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.576088,145.59537
+T20230004249,21/2/2023,14:38:00,Tuesday,4,Collision with a fixed object,3,Day,BASS COAST,T intersection,888,-38.600793,145.590548
+T20230004502,23/2/2023,19:15:00,Thursday,5,collision with some other object,2,Unk.,BASS COAST,Not at intersection,100,-38.617089,145.740504
+T20230004506,27/1/2023,11:30:00,Friday,6,Vehicle overturned (no collision),3,Day,BASS COAST,Not at intersection,070,-38.528978,145.559095
+T20230004725,26/2/2023,23:53:00,Sunday,1,Collision with vehicle,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.522163,145.403297
+T20230004855,28/2/2023,5:45:00,Tuesday,1,Collision with vehicle,1,Dark No street lights,BASS COAST,Not at intersection,100,-38.566746,145.561234
+T20230005267,18/2/2023,12:15:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.482091,145.220135
+T20230005412,8/1/2023,16:00:00,Sunday,2,Struck Pedestrian,3,Day,BASS COAST,Not at intersection,040,-38.635183,145.731104
+T20230005580,7/3/2023,10:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,080,-38.496697,145.239033
+T20230006016,12/3/2023,21:39:00,Sunday,4,Collision with a fixed object,3,Dark No street lights,BASS COAST,Not at intersection,080,-38.496643,145.225569
+T20230006082,27/2/2023,15:30:00,Monday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,100,-38.412076,145.52715
+T20230006470,17/3/2023,20:25:00,Friday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,T intersection,100,-38.478825,145.470149
+T20230006607,20/3/2023,16:40:00,Monday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.440593,145.48363
+T20230006875,12/11/2022,11:00:00,Saturday,1,Collision with vehicle,3,Unk.,BASS COAST,T intersection,060,-38.520528,145.373059
+T20230008404,10/4/2023,10:05:00,Monday,1,Collision with vehicle,2,Day,BASS COAST,T intersection,100,-38.472131,145.474846
+T20230008443,10/4/2023,21:58:00,Monday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,Not at intersection,080,-38.411318,145.527665
+T20230008765,14/4/2023,14:56:00,Friday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,060,-38.606911,145.582708
+T20230009308,21/4/2023,13:33:00,Friday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,080,-38.472278,145.187447
+T20230009395,22/4/2023,14:15:00,Saturday,1,Collision with vehicle,3,Day,BASS COAST,Not at intersection,080,-38.473201,145.238998
+T20230009734,26/4/2023,15:55:00,Wednesday,4,Collision with a fixed object,1,Day,BASS COAST,Not at intersection,100,-38.499119,145.524251
+T20230010675,6/5/2023,16:14:00,Saturday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,100,-38.432772,145.497182
+T20230010698,7/5/2023,15:09:00,Sunday,4,Collision with a fixed object,3,Day,BASS COAST,Not at intersection,100,-38.454429,145.594554
+T20230011480,17/5/2023,6:55:00,Wednesday,1,Collision with vehicle,2,Day,BASS COAST,Y intersection,060,-38.605084,145.60118
+T20230011860,21/5/2023,16:43:00,Sunday,1,Collision with vehicle,2,Day,BASS COAST,Cross intersection,050,-38.51351,145.359727
+T20230012422,28/5/2023,3:10:00,Sunday,4,Collision with a fixed object,3,Dark Street lights on,BASS COAST,T intersection,050,-38.637885,145.72436
+T20230012491,29/5/2023,6:57:00,Monday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,060,-38.564112,145.55249
+T20230013304,7/6/2023,17:30:00,Wednesday,4,Collision with a fixed object,3,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.540048,145.540598
+T20230013431,9/6/2023,15:29:00,Friday,2,Struck Pedestrian,2,Day,BASS COAST,Not at intersection,040,-38.605823,145.593535
+T20230013542,10/6/2023,19:45:00,Saturday,1,Collision with vehicle,2,Dark Street lights on,BASS COAST,T intersection,100,-38.309356,145.541809
+T20230014356,19/1/2023,11:30:00,Thursday,1,Collision with vehicle,3,Unk.,BASS COAST,Cross intersection,999,-38.514661,145.353464
+T20230014633,23/6/2023,16:30:00,Friday,4,Collision with a fixed object,3,Unk.,BASS COAST,Not at intersection,080,-38.459189,145.600572
+T20230014872,26/6/2023,16:22:00,Monday,1,Collision with vehicle,2,Dusk/Dawn,BASS COAST,Not at intersection,100,-38.523858,145.415654
+T20230014961,6/6/2023,8:00:00,Tuesday,1,Collision with vehicle,3,Dusk/Dawn,BASS COAST,Cross intersection,040,-38.606998,145.593889
+T20230015061,28/6/2023,21:35:00,Wednesday,1,Collision with vehicle,3,Dark Street lights on,BASS COAST,Not at intersection,999,-38.521278,145.396662
+T20230015710,7/7/2023,5:45:00,Friday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,T intersection,080,-38.496601,145.160436
+T20230016242,16/5/2023,10:10:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,Cross intersection,050,-38.452325,145.238981
+T20230016916,20/7/2023,19:18:00,Thursday,4,Collision with a fixed object,2,Dark No street lights,BASS COAST,Not at intersection,100,-38.631167,145.603648
+T20230021936,7/3/2023,12:00:00,Tuesday,1,Collision with vehicle,3,Day,BASS COAST,T intersection,050,-38.602644,145.592071
